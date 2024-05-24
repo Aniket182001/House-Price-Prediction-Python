@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Aniket182001](https://github.com/Aniket182001)
 
 - 📫 How to reach me **jobs.aniketk@gmail.com**
-- 
+
 <br>
 <h3 align="center">House price prediction using Python</h3>
 House price prediction refers to the process of estimating the value or selling price of a property based on various factors such as location, size, condition, and market trends. It involves using statistical models and help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are three factors that influence the price of a house which include physical conditions, concept and location.
